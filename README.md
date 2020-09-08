@@ -1,0 +1,2 @@
+# emule_recompilation_step3_3rdparty_libpng
+libpng是一款C语言编写的比较底层的读写PNG文件的跨平台的库。借助它，你可以轻松读写PNG文件的每一行像素。
